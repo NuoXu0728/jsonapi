@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: jsonapi
+Version: 0.0.1
+Summary: A custom JSON API to handle complex numbers.
+Home-page: https://github.com/NuoXu0728/jsonapi
+Author: Nuo Xu
+Author-email: xu.nuo1@northeastern.edu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# jsonapi
+
+A custom JSON API to handle complex numbers.
+
+## Installation
+
+```bash
+pip install git+https://github.com/nuoxu0728/jsonapi.git
